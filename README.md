@@ -28,9 +28,9 @@ All system design documentation is located in the `/docs` folder.
 
 ## 🧱 Architecture Phases
 1. Requirements & Analysis (DONE)
-2. System Architecture Design (NEXT)
-3. AWS Service Mapping
-4. Data Flow Design
+2. System Architecture Design (DONE)
+3. AWS Service Mapping (DONE)
+4. Data Flow Design (NEXT)
 5. Security Architecture
 6. DevOps & CI/CD
 7. Monitoring & Observability
